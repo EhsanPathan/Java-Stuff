@@ -1,5 +1,5 @@
 import java.util.Scanner;
- 
+//this is a fake message
 public class Number {
  public char sign;
  public String whole;

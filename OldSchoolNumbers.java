@@ -1,6 +1,6 @@
 import java.util.Scanner;
  
-public class Number {
+public class OldSchoolNumbers {
  public char sign;
  public String whole;
  public String fraction;
